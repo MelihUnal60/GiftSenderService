@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiftSenderServiceConsoleUI", "GiftSenderService\GiftSenderServiceConsoleUI.csproj", "{403533DE-2460-460D-974E-CC2E24D4ACEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GiftSenderService.MarketingDepartment", "GiftSenderService.MarketingDepartment\GiftSenderService.MarketingDepartment.csproj", "{D5FF90D7-0E41-46A5-89C1-A2E9879E46DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403533DE-2460-460D-974E-CC2E24D4ACEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403533DE-2460-460D-974E-CC2E24D4ACEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403533DE-2460-460D-974E-CC2E24D4ACEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403533DE-2460-460D-974E-CC2E24D4ACEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FF90D7-0E41-46A5-89C1-A2E9879E46DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF90D7-0E41-46A5-89C1-A2E9879E46DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF90D7-0E41-46A5-89C1-A2E9879E46DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF90D7-0E41-46A5-89C1-A2E9879E46DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DEAE6E-5355-42BC-BC53-C2F591086545}
+	EndGlobalSection
+EndGlobal
